@@ -1,0 +1,9 @@
+{
+	"name": "WafaDemogithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07a014bd-91fa-47ae-86a1-d24d24bbf659",
+		"tenantId": "5768675e-79cf-49be-8526-51b17cbf328c"
+	}
+}
